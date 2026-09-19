@@ -10,5 +10,3 @@ function countVowels(str) {
 
   return count;
 }
-
-console.log("Vowel count:", countVowels("JAVASCRIPT"));
